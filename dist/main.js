@@ -1,8 +1,3 @@
-/*! 
-* iron-dragon-companion - @version 0.0.1
-
-* Copyright (C) 2020 Rachel O'Connor & Jessica Gonzalez
-*/
 var Component = (function (exports) {
   'use strict';
 
