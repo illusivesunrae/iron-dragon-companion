@@ -4,7 +4,7 @@
 /node_modules
 
 # build process
-/build
+/dist
 
 # misc
 .DS_Store
