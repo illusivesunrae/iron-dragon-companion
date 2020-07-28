@@ -1,0 +1,32 @@
+{
+  "name": "iron-dragon-companion",
+  "version": "0.0.1",
+  "description": "An app for assisting players wishing to play Iron Dragon remotely",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illusivesunrae/iron-dragon-companion.git"
+  },
+  "author": "Rachel O'Connor",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/illusivesunrae/iron-dragon-companion/issues"
+  },
+  "homepage": "https://github.com/illusivesunrae/iron-dragon-companion#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-header": "^2.0.9",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2",
+    "rollup": "^1.23.1",
+    "rollup-plugin-babel": "^4.3.3"
+  }
+}
