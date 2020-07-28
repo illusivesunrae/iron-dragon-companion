@@ -10,8 +10,7 @@ const pkg = require('./package.json');
 const bannerTemplate = [`/*! 
 * ${pkg.name} - @version ${pkg.version}
 
-* Copyright (C) 2018 The Trustees of Indiana University
-* SPDX-License-Identifier: BSD-3-Clause
+* Copyright (C) 2020 Rachel O'Connor & Jessica Gonzalez
 */\n`];
 
 function reload(done) {
