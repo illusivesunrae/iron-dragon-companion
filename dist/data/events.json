@@ -45,12 +45,7 @@
   },
   {
     "title": "War Tax",
-    "text": `All players pay taxes on cash: 
-    0-49 GP \t 0 GP
-    50-99 GP \t 10 GP
-    100-149 GP \t 15 GP
-    150-199 GP \t 20 GP
-    200 GP and over \t 30 GP`
+    "text": "All players pay taxes on cash: 0-49 GP = 0 GP, 50-99 GP = 10 GP, 100-149 GP = 15 GP, 150-199 GP = 20 GP, 200 GP and over = 30 GP"
   },
   {
     "title": "Barbarians Attack",
