@@ -4,79 +4,84 @@
     "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
   },
   {
-    "title": "Card 2",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Rainbow Bridge",
+    "text": "A Rainbow Bridge is discovered between Bluefeld and Octomare. These two cities are magically connected for the rest of the game."
   },
   {
-    "title": "Card 3",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Peasants are Revolting",
+    "text": "No pickups or deliveries at any city more than 3 mileposts from the coast."
   },
   {
-    "title": "Card 3",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Sand Storm",
+    "text": "All track connected to desert mileposts in the Orc Wastes is destroyed but may be rebuilt. All trains on desert mileposts return to last city and lose 1 turn and 1 load."
   },
   {
-    "title": "Card 4",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Volcanoes Erupt, Causing Free Dragon Attacks",
+    "text": "All trains within 2 mileposts of a volcano lose all loads and 1 turn. All trains within 10 mileposts of Nordkassel lose 1 load and 1 turn. No rail building allowed in this area."
   },
   {
-    "title": "Card 5",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Rogue Magic",
+    "text": "Work Crew is enchanted.  No rail building by drawing player.  No player may exchange foremen."
   },
   {
-    "title": "Card 6",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Ice Storm",
+    "text": "All trains within 10 mileposts of Kola move at half rate. No rail building or movement in mountain mileposts in this area."
   },
   {
-    "title": "Card 7",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Elven Antirailroad Activists Attack",
+    "text": "No railbuilding or movement on forest mileposts in Glyth Gamel and Silvarre."
   },
   {
-    "title": "Card 8",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Flood",
+    "text": "Rivers in the Olde World flood. All bridges are destroyed, but may be rebuilt. "
   },
   {
-    "title": "Card 9",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Pirates",
+    "text": "Pirates attack, seize booty. All trains on ships lose 1 turn and 1 load."
   },
   {
-    "title": "Card 10",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Evil Prince Summons Warlord",
+    "text": "All trains in Bright lose 1 turn and 1 load."
   },
   {
-    "title": "Card 11",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "War Tax",
+    "text": `All players pay taxes on cash: 
+    0-49 GP \t 0 GP
+    50-99 GP \t 10 GP
+    100-149 GP \t 15 GP
+    150-199 GP \t 20 GP
+    200 GP and over \t 30 GP`
   },
   {
-    "title": "Card 12",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Barbarians Attack",
+    "text": "No Pickups or deliveries within 3 mileposts of a jungle milepost."
   },
   {
-    "title": "Card 13",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Winged Demons Escape",
+    "text": "All trains in Orc Wastes, Iron Holm, Eusarch, Caicenden are attacked by winged demons and lose 1 turn and 1 load."
   },
   {
-    "title": "Card 14",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Wizards Strike",
+    "text": "Magical connection between Wikkedde and Ozu-Zarkh and the Rainbow Bridge is suspended for one turn. No train may be upgraded."
   },
   {
-    "title": "Card 15",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Siren Song Seaman Enchanted",
+    "text": "All trains on ships within 15 mileposts of Ilik-Herb lose 1 turn and 1 load"
   },
   {
-    "title": "Card 16",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Magic Tempest",
+    "text": "All trains in the Olde World move at half rate.  No movement or building in mountain and alpine mileposts in this area."
   },
   {
-    "title": "Card 17",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Hurricane",
+    "text": "All trains in Janoshal and Wislandor move at half rate. No Movement or building in mountain and alpine mileposts in this area."
   },
   {
-    "title": "Card 18",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Flood",
+    "text": "The Nestor, Bright, Green, and Nairnkyl rivers flood. All bridges over these rivers are destroyed, but may be rebuilt."
   },
   {
-    "title": "Card 19",
-    "text": "All trains on ships within 15 mileposts of Opal Bezin lose 1 turn and 1 load."
+    "title": "Flood",
+    "text": "The Caetish, River of Death, Ssylvan, and Juul rivers flood. All bridges over these rivers are destroyed, but may be rebuilt. "
   }
 ]
